@@ -44,7 +44,7 @@ GET [http://localhost:8080/api/rates?base={BASE_CURRENCY}](http://localhost:8080
 - Fetch the exchange rates for a given base currency.
 - eg: [http://localhost:8080/api/rates?base=INR](http://localhost:8080/api/rates?base=INR)
 
-### **1. Convert Currency**
+### **2. Convert Currency**
 - Test from **Postman**
 - POST [http://localhost:8080/api/convert](http://localhost:8080/api/convert)
   
